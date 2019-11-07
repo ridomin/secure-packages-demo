@@ -1,13 +1,13 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Rido.CoreAppLauncher" Version="0.0.1-Beta1" />
-    <PackageReference Include="System.Rido" Version="1.0.8-pre" />
+    <!--PackageReference Include="Rido.CoreAppLauncher" Version="0.0.1-Beta1" />
+    <PackageReference Include="System.Rido" Version="1.0.8-pre" /-->
   </ItemGroup>
 
 </Project>
